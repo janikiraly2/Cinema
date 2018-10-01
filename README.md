@@ -46,7 +46,6 @@
 	 - Foglalások megtekintése és kezelése
 	 - Új film felvitele az adatai megadásával
 	 - Filmek módosítása, törlése
-	 - Új vetítés meghirdetése
 	 
    [h2]: <http://www.h2database.com/html/main.html>
    [JPA]: <https://www.tutorialspoint.com/jpa/>
